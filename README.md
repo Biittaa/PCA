@@ -1,6 +1,6 @@
 # 🌟 Principal Component Analysis (PCA) on the Adult Dataset
 
-Welcome to my data mining project where I perform **Principal Component Analysis (PCA)** on the widely-used **Adult dataset** from the UCI Machine Learning Repository.
+Welcome to my data mining project where I perform **Principal Component Analysis (PCA)** on the widely-used **Adult dataset**.
 
 ## 📌 Project Overview
 
